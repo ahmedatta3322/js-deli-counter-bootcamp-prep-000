@@ -5,7 +5,7 @@ function takeANumber(cr_line,new_name){
   }
   else
   {
-  return "Welcome, " + new_name + "." + " You are number " + cr_line.length-1 + " in line."
+  return "Welcome, " + new_name + "." + " You are number " + cr_line.length + " in line."
   }
 }
 function nowServing(cr_line){
